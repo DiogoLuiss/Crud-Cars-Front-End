@@ -1,14 +1,14 @@
 <h1>Corelab challenge</h1>
 
 
-<img src="./src/assets/FilterPage.png"  width="600px" alt="Project-img">
+<img src="./src/assets/FilterPage.png"  width="400px" alt="Project-img">
 <p>Filter Page</p>
 
-<img src="./src/assets/RegisterPage.png"  width="600px" alt="Project-img">
+<img src="./src/assets/RegisterPage.png"  width="400px" alt="Project-img">
 
 <p>Register Page</p>
 
-<img src="./src/assets/UpdateCarPage.png"  width="600px" alt="Project-img">
+<img src="./src/assets/UpdateCarPage.png"  width="400px" alt="Project-img">
 
 <p>Register Page</p>
 
